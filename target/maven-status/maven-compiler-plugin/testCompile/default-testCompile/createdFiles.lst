@@ -1,0 +1,10 @@
+zup/edu/runners/RunnerTest.class
+zup/edu/support/enums/ApiBaseUri.class
+zup/edu/support/utils/RestContext.class
+zup/edu/support/enums/DefaultHeaders.class
+zup/edu/support/utils/GetProperties.class
+zup/edu/support/enums/ApiPath.class
+zup/edu/stepDefinitions/ComicsMarvelStepDefinitions.class
+zup/edu/support/utils/Environments.class
+zup/edu/support/enums/DefaultParams.class
+zup/edu/service/ComicsMarvelService.class

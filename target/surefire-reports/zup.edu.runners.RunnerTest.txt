@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: zup.edu.runners.RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.192 s - in zup.edu.runners.RunnerTest

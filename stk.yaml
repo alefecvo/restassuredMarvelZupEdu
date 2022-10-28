@@ -1,0 +1,9 @@
+applied_templates:
+- inputs:
+    project_name: restassuredMarvelZupEdu
+  template_data_path: restassured-api-stackspot/template-api-restassured
+global_computed_inputs: {}
+global_inputs:
+  package_name: zup.edu
+stack: restassured-api-stackspot
+stack_type: app
